@@ -1,3 +1,4 @@
+Edited by chetan
 # 💼 Developer Portfolio - Ishan Kalhe
 
 This is a personal portfolio website designed and developed by **Ishan Kalhe**, a second-year B.Tech CS student at Zeal College of Engineering and Research, Pune. The portfolio showcases my technical skills, projects, interests, education, and certifications — all with a clean, responsive design using **HTML, CSS, Bootstrap, and JavaScript**.
